@@ -1,0 +1,4178 @@
+"Human"
+blood sample from a cancer patient with gallbladder stone during postoperative care and bacteremia-caued sepsis
+blood sample from neonates
+Blood sample from neonates
+blood sample from patient with septicemia
+blood sample from patients who developed COVID-19 within the first three months of the pandemic in New York City
+blood sample from septicemic neonates
+homo
+Homo sapiens
+Homo Sapiens clinical
+Homo Sapiens clinical isolate
+human
+human abdominal fluid
+human blood
+Human blood sample
+Human body sites or biosamples
+human Cerebrospinal fluid
+human faeces
+human fecal sample
+Human fecal samples
+human feces
+human feces metagenome
+human gut
+Human gut
+human gut metagenome
+human inguinal skin
+human pancreatic cancer tissue
+human perineal skin
+human Pus
+human rectal swab
+Human rectal swab
+Human Sample
+human skin
+human stool
+Human stool
+human urine
+Human urine
+human wound
+Human Wound
+human, missing
+Human, Stool
+Humanbody
+Isolated from an abscess of an 32 years old female
+Isolated from blood of a 29 years old male
+Isolated from blood of a 33 years old male
+Isolated from blood of a 79 years old male
+Isolated from blood of an 54 years old female
+Isolated from bone tissue of a 71 years old male
+Isolated from bronchoalveolar lavage of an 81 years old female
+Isolated from catheter blood of an 15 years old female
+Isolated from cerebrospinal fluid of a 36 years old male
+Isolated from peritoneal fluid of a 79 years old male
+Korean infant feces
+patient
+Patient 1
+Patient 2
+Patient 3
+Patient 4
+Patient 5
+patient blood
+Patient blood
+Patient bloodstream
+patient urine
+Patient urine
+patient with infection
+patient with urinary tract infection
+Patient wound secretion
+patient's alveolar lavage fluid
+Patient1 sputum
+Patient10 sputum
+Patient11 sputum
+Patient13 sputum
+Patient14 sputum
+Patient16 sputum
+Patient18 sputum
+Patient2 sputum
+Patient3 sputum
+Patient4 sputum
+Patient5 sputum
+Patient6 sputum
+Patient7 sputum
+patients
+Patients
+human
+Human
+Human blood
+Human blood sample
+Human body sites or biosamples
+Human gut
+Human sample
+Human Sample
+human urine
+Human urine
+blood from critically ill patient
+blood from hospitalized preterm neonate
+blood from male fever patient 1
+blood from male fever patient 2
+blood from male fever patient 3
+blood from male fever patient 4
+blood from neonate
+blood from newborn
+blood from patient with community-acquired emphysematous osteomyelitis
+blood from patient with pneumonia
+Blood from patient with systemic infection
+blood isolated from a 12-year-old boy
+Blood of ICU admitted patient
+BALF from children
+blind BAL [mini-BAL] isolate from a 79-year-old woman
+blood (post-mortem) sample from patients who developed COVID-19 within the first three months of the pandemic in New York City
+blood culture from a patient in a burn unit
+blood culture from maile
+cancer patient stool
+cerebrospinal fluid (CSF) of a 56-year-old female patient
+Clean urine from a patient
+diarrhea sample from child under the age of five
+fecal isolate from poultry farm worker
+fecal sample from healthy person
+gastric tube used by newborn
+inguinal skin (human)
+liver abscess of a 14-year-old boy
+lungs of cystic fibrosis patient B
+nasal swab from moderately born preterm neonate admitted to the sick neonatal care unit with respiratory distress
+nasal swab from veterinarian
+rectal swab isolate from a 57-year-old man
+rectal swab of pregnant women
+rectal swab from female
+rectal swab from healthy participants
+respiratory sample from patients who developed COVID-19 within the first three months of the pandemic in New York City
+sample from patient in hospital emergency room
+sputum of human
+stool from a patient with diarrhea due to a foodborne disease outbreak
+stool from adult
+stool from MSM patient
+stool from neonate
+stool from preterm neonate
+breeder nasal swab
+feces from depressed premenopausal women with low estradiol levels
+Patient feces collected by the Laboratory Department of Children's Hospital of Jinan City, Shandong Province
+hospital patient
+Hospital patient
+hospital patients
+Hospital patients
+hospital respiratory patient
+hospital, patient
+Hospital; patient
+pooled bronchial wash from ICU patient from Kuwait
+urinary stone isolated from the urinary tract of a 58-year-old female patient
+urine from Syrian refugee
+urine isolate from a 47-year-old woman
+Urine of ICU admitted patient
+urine sample from patients who developed COVID-19 within the first three months of the pandemic in New York City
+Urine sample of urinary tract infection patient
+Urine samples from humans
+wound (human)
+wound exudate from white male caucasian
+ascites of infant
+tracheal secretion isolated from an uncertain age woman
+Skin and soft tissue human infection
+pleural fluid isolated form a 50-year-old man
+hospital patients
+Hospital patients
+Hospital, patient
+soldier combat wound
+patient
+people
+vitreous fluid from young man
+Care taker
+PA
+SCP
+
+"Unknown/Not specified"
+-
+? Collection
+?C???x?????t
+(blank)
+0
+1
+missing
+Missing
+MISSING
+n.a.
+n/a
+N/A
+N/C
+na
+ND
+NOT
+not applicable
+Not applicable
+Not Applicable
+not assigned
+not available
+Not available
+not available: to be reported later
+not collected
+Not collected
+Not Collected
+not detemined
+not determined
+not known
+Not Obtained
+not provided
+Not provided
+Not Provided
+restricted access
+unknown
+Unknown
+unknown isolate
+Unknown/Unspecified
+unknwon
+Unkwon
+Unspecified
+missing
+Missing
+no source specified
+undefined
+Unknown
+
+"Livestock"
+a anal swab sample of swine origin
+a blood sample of swine origin
+a feces sample of chicken origin
+a feces sample of swine origin
+a nose swab sample of swine origin
+Laying hen
+Livestock waste
+One-day-old chicks
+pig
+Pig anus swab
+Pig ear pet treat
+pig farm
+pig fecal material
+pig feces
+pig feed
+pig gut metagenome
+pig nasal swab
+Pig-tail ureteric stent
+Pooled cattle faecal samples collected from floor of farm
+Pooled cattle fecal samples collected from floor of farm
+Pooled faeces sample collected from floor of poultry farm
+Pooled pig faecal samples collected from floor of farm
+Pooled pig fecal samples collected from floor of farm
+pooled poultry feces
+Pooled sediment sample collected from floor of cattle farm
+Pooled sediment sample collected from floor of pig farm
+Pooled sediment sample collected from floor of poultry farm
+Pooled sheep faecal samples collected from floor of farm
+Pooled sheep fecal samples collected from floor of farm
+Pooled soil sample collected from floor of cattle farm
+Pooled soil sample collected from floor of pig farm
+Pooled soil sample collected from floor of poultry farm
+Pooled soil sample collected from floor of sheep farm
+sheep
+Pooled sediment sample collected from floor of cattle farm
+Pooled sediment sample collected from floor of pig farm
+Pooled soil sample collected from floor of cattle farm
+Pooled soil sample collected from floor of pig farm
+Pooled soil sample collected from floor of sheep farm
+animal-cattle-steer
+Air Sac (Gallus Gallus Domesticus)
+Animal-Calf-Bob Veal
+Animal-Calf-Bob Veal (cecal)
+Animal-Cattle-Beef Cow (cecal)
+Animal-Cattle-Dairy Cow (cecal)
+Animal-Cattle-Steer (cecal)
+Animal-Chicken-Young Chicken (cecal)
+Animal-Sheep-Mature Sheep
+Animal-Sheep-Mature Sheep (cecal)
+animal-swine-market swine
+Animal-Swine-Market Swine (cecal)
+Animal-Swine-Sow (cecal)
+Animal-Turkey-Young Turkey
+Animal-Turkey-Young Turkey (cecal)
+broiler chicken gastrointestinal tract
+broiler feces
+mastitic milk
+Mastitic Milk
+mastitis milk
+Mastitis milk
+Mastitis-milk
+Calf
+calf feces
+cattle
+Bovine, milk
+egg shell
+egg shells from hatchery
+feces from livestock farm
+feces from poultry farm
+healthy broiler feces
+hen
+Lung (Meleagris Gallopavo)
+chick, cloacal swab
+chicken
+chicken dung channel
+Chicken embryo
+chicken feces
+chicken gut metagenome
+chicken intestinal contents
+chicken intestine
+chicken manure
+chicken-internal organs from poultry farm
+cow
+Cow milk
+cows
+dairy animal
+Clinical mastitis in cow
+Feces (bos taurus)
+milk from dairy animals with mastitis
+milk of a mastitic cow
+tissue from pig
+turkey
+Turkey cecum
+swine
+Swine feces
+Subclinical mastitis in cow
+gallus tissue sample
+piglet
+Poultry faeces
+Pre-slaughter chicken
+goat
+bull
+Popliteal lymph node of steer
+sow
+Pig
+
+"Domestic"
+Canine abdominal effusion
+canine abscess
+Canine blood
+canine endotracheal tube site
+canine endotracheal wash
+canine feces
+Canine feces
+canine pleural fluid
+canine skin
+canine surgical site
+Canine surgical site
+Canine tracheal aspirate
+canine urine
+Canine urine
+canine wound
+Canine wound
+Canine, urine
+canine:feces
+cat
+street pet
+military dog fecal sample
+dog with urinary tract infection
+domestic pet
+dog
+Ear (Canis Lupus Familiaris)
+Feces (Canis lupus familiaris )
+Feces (Canis lupus familiaris)
+Feces (Felis catus domesticus)
+feline abdominal fluid
+Feline abdominal fluid
+feline ear
+feline endotracheal tube site
+feline feces
+Feline feces
+feline tissue
+feline urine
+Feline urine
+feline wound
+Feline, pleural fluid
+Guttural pouch biopsy
+horse
+Kidney (Equus Caballus)
+Lung (Equus Caballus)
+military dog fecal sample
+equine
+neck (Felis catus domesticus)
+Pancreas (Canis Lupus Familiaris)
+wound (Canis lupus familiaris)
+Wound (Canis lupus familiaris)
+Wound (Equus Caballus)
+WOUND SWAB (Canis lupus familiaris )
+canine feces
+Canine Feces
+canine tissue
+feces (Canis lupus familiaris)
+Urine (Felis catus)
+Wound (Canis lupus familiaris)
+Uterus (Equus Caballus)
+Urethra (Equus Caballus)
+urine (Canis lupus familaris)
+urine (canis lupus familiaris)
+Urine (Canis lupus familiaris)
+Urine (Canis Lupus Familiaris)
+Urine (Canis Lupus)
+URINE (Felis catus domesticus)
+ureteral stent(canis lupus familiaris)
+Tonsil (Canis Lupus)
+trachea (canis lupus familiaris)
+the intestinal tract of dog
+SURGICAL SITE SWAB (Canis lupus familiaris )
+Skin (Canis Lupus Familiaris)
+PERIVULVAR SWAB (Canis lupus familiaris )
+puppy
+Stallion
+mare metritis
+
+"Environmental Sample"
+Enviromental
+environment
+Environment
+environment contaminated by Homo sapiens patients
+Environment-drain
+Environment, poultry farm
+environmental
+environmental (razor)
+Environmental isolate
+environmental sample
+Environmental sample on unit
+Environmental Samples 1
+Environmental Samples 2
+Environmental Samples 3
+environmental surface
+environmental surface of zoo
+environmental swab
+environmental swabs
+environmental wastewater
+Environnement
+freshwater lake
+Freshwater river sediment
+Freshwater sample from downstream of wastewater treatment plant
+Freshwater sample from upstream of wastewater treatment plant
+freshwater stream
+freshwater stream sediment
+fresh water stream sediment
+lake
+lake water
+lake-wetland
+lakeshore surface sediment
+river
+River
+river downstream
+River estuary
+river sediment
+river surface water
+river upstream
+river water
+river water/sediment
+River water6
+Riverwater from Bunurong lands
+Riverwater from Walbunja lands
+Riverwater from Wurundjeri lands
+rock
+sea
+sea water
+Sea water
+Shatin WWTPs_14 WWTPs effluent
+Shatin WWTPs_19 WWTPs effluent
+Shatin WWTPs_2 WWTPs effluent
+Shatin WWTPs_21 WWTPs effluent
+Shatin WWTPs_74 WWTPs influent
+Shatin WWTPs_77 WWTPs influent
+Shatin WWTPs_79 WWTPs influent
+Shatin WWTPs_84 WWTPs influent
+Shatin WWTPs_88 WWTPs influent
+Shatin WWTPs_9 WWTPs effluent
+Shatin WWTPs_90 WWTPs influent
+Shatin WWTPs_93 WWTPs influent
+Shatin WWTPs_94 WWTPs influent
+Shek Wu Hui WWTPs_1 WWTPs effluent
+Shek Wu Hui WWTPs_100 WWTPs influent
+Shek Wu Hui WWTPs_106 WWTPs influent
+Shek Wu Hui WWTPs_108 WWTPs influent
+Shek Wu Hui WWTPs_109 WWTPs influent
+Shek Wu Hui WWTPs_114 WWTPs influent
+Shek Wu Hui WWTPs_3 WWTPs effluent
+Shek Wu Hui WWTPs_4 WWTPs effluent
+Shek Wu Hui WWTPs_62 WWTPs effluent
+Shek Wu Hui WWTPs_72 WWTPs effluent
+sludge
+sludge from WWTP
+Sludge from WWTP
+sludge of a sewage pipeline
+stream sediment
+stream water
+Stream water
+Stream Water
+Untreated wastewater (WWTP)
+Waste water
+waste water and activated sludge
+Waste water system
+waste water treatment plant
+Waste water treatment plant
+wastewater
+Wastewater effluent
+Wastewater Effluent
+Wastewater effluent sample
+Wastewater from Chattogram Medical College Hospital
+wastewater from pig manure
+Wastewater from Ravoahangy Andrianavalona University Hospital of Antananarivo city
+wastewater from WWTP
+Wastewater influent
+Wastewater Influent
+Wastewater influent sample
+Wastewater sample
+wastewater treatment plant
+Wastewater urban river with its source beginning on the industrial district
+water
+water from electronic waste dumpsite
+Water from farm
+Water reservoir
+water sample
+Water sample
+Water Sample
+water sample from urban lake
+WWTP effluent receiving areas in the Split coastal area
+WWTP effluent sampling point
+WWTP effluent sampling point - cinder wall
+WWTP effluent sampling point - inside sampling reservoir
+WWTP effluent sampling point cinder wall
+WWTP effluent sampling point- metal cover grate
+WWTP Effluent water flow
+WWTP inlet
+WWTP outlet
+WWTP downstream site 3
+WWTP downstream site 4
+WWTP site 4
+WWTP upstream site 4
+WWTP upstream site 5
+wastewater
+Wastewater from Chattogram Medical College Hospital, Chattogram, Bangladesh
+Wastewater treatment plant digester influent
+Wastewater treatment plant primary solids
+Wastewater treatment plant raw influent
+Wastewater treatment plant secondary sludge
+Water
+Water-Sewage
+Enviromental sample
+environment
+Environment
+environmental
+Environmental
+Environmental isolate
+Environmental sample
+Environmental sample on unit
+environmental swab
+Environmental swab
+Effluent of wastewater
+Treated sewage effluent
+treated wastewater
+Treated wastewater (WWTP)
+Stanley WWTPs_10 WWTPs influent
+Stanley WWTPs_14 WWTPs influent
+Stanley WWTPs_19 WWTPs influent
+Stanley WWTPs_2 WWTPs effluent
+Stanley WWTPs_28 WWTPs effluent
+Stanley WWTPs_3 WWTPs influent
+Stanley WWTPs_42 WWTPs effluent
+Stanley WWTPs_44 WWTPs effluent
+Stanley WWTPs_7 WWTPs influent
+raw sewage
+raw waste water
+raw wastewater
+air
+air sample
+Andriantany community wastewater channel
+borehole water
+fishpond
+forest soil
+Full scale WWTP activated sludge
+Ganga River
+Ikopa river
+2nd floor shower north, bar/chair
+7BW - Swab RM 32-36 Shower Drain
+A General Hospital in Southeast China
+A highway near a former nuclear weapons processing plant
+Acute Care Hospital
+agricultural field soil
+agricultural soil
+alcohol foam dispenser in hospital intensive care unit
+Anesthesia machine
+Aquarium water
+Aquatic Environment
+Aquatic products
+ARJO bathroom
+artificial lung ventilation apparatus
+Bathing waters
+bathroom drain
+Bathroom shower trap
+bathroom sink
+Bathroom sink
+bed
+bed sheet
+bed sheets
+bedside light switch in hospital intensive care unit
+bedside rail in hospital intensive care unit
+C2: Patient area (e.g., overbed and bedside tables, door handles, and light switch) at hospital facilities
+C3: Patient area (e.g., bathroom sink splash zones)
+C6: Common area clean sink (e.g., splash zones) at hospital facilities
+C7: Dirty sink in common area (e.g., splash zones) at hospital facilities
+Burns unit surveillance
+Cabinet/drawer handles
+cage (Environmental)
+cage surface
+Chattahoochee River
+clinical enviromental sample
+Domestic sewage
+domestic wastewater enriched in microbial fuel cell with added fumarate (F1)
+domestic wastewater enriched in microbial fuel cell without fumarate (NF1)
+door
+Door to treatment area
+environmental swab of broiler farm
+environmental swab of the bed rail
+environmental swab of the bed table
+environmental swab of the infusion pump
+environmental swab of the oximeter
+environmental swab of the respirator
+environmental swab of the right bed rail
+environmental swab of the urine bag
+environmental swab of the vacuum extractor
+environmental swab veterinary clinic
+environmental swabof the left bed rail
+Environmental-Poultryfarm-Water
+Facility A
+Facility B
+Facility fcG
+Facility fcH
+Facility H
+Facility I
+Facility K
+Facility O
+Facility Q
+home of pet owner
+hospital
+Hospital Arquitecto Marcide (Ferrol)
+Hospital Basel Switzerland
+Hospital Clinic (Barcelona)
+Hospital de El Escorial (Madrid)
+Hospital de Guadalajara (Guadalajara)
+Hospital de Mostoles (Madrid)
+Hospital de Parla (Madrid)
+hospital drain
+hospital effluent
+Hospital effluent
+hospital environment
+Hospital environment
+Hospital Facilities
+Hospital Fundacion de Alcorcon (Madrid)
+Hospital General de Alicante (Alicante)
+Hospital General La Mancha Centro (Ciudad Real)
+Hospital General Universitario de Ciudad Real (Ciudad Real)
+Hospital Infanta Leonor (Madrid)
+hospital NICU surfaces and sink samples
+Hospital Puerta de Hierro (Madrid)
+Hospital Puerta del Mar (Cadiz)
+Hospital Reina Sofia (Cordoba)
+hospital room swab
+Hospital Sant Joan de Deu (Fundacio Althaia. Manresa)
+Hospital separates human sputum
+Hospital setting
+hospital sewage
+Hospital sewage
+hospital sink
+hospital surface
+Hospital surface
+Hospital surface within new hospital building
+Hospital surface within old hospital building
+Hospital Univeristario de Bellvitge (Barcelona)
+Hospital Universitari Germans Trias i Pujol (Badalona)
+Hospital Universitario Central de Asturias (Oviedo)
+Hospital Universitario Gregorio Maranon (Madrid)
+Hospital Universitario La Paz (Madrid)
+Hospital Universitario La Princesa (Madrid)
+Hospital Universitario Lucus Augusti (Lugo)
+Hospital Universitario Marques de Valdecilla (Santander)
+Hospital Universitario Miguel Servet (Zaragoza)
+Hospital Universitario Mutua de Terrassa (Terrassa)
+Hospital Universitario Ramon y Cajal (Madrid)
+Hospital Universitario Son de Espases (Palma de Mallorca)
+Hospital Universitario Valencia Tres cruces (Valencia)
+Hospital Universitario Virgen de las Nieves (Granada)
+Hospital Vall d'Hebron (Barcelona)
+Hospital Virgen de la Macarena (Sevilla)
+Hospital Virgen de la Salud (Toledo)
+Hospital waste water
+hospital wastewater
+Hospital wastewater
+Hospital Wastewater
+Hosptial waste water
+Household swabs
+hospital, countertop
+ICU
+ICU drain
+Incubator hood
+Incubator tubing
+intensive care unit
+intensive care unit and environment
+Intermediate-Care Facility
+Isabela River
+irrigation Solution
+Irrigation Solution
+Irrigation water
+Irrigation Water
+Kitchen B
+Kitchen C
+kitchen sponge
+kitchen surface
+Lavabo
+Lerma River
+Lycium barbarum rhizosphere soil
+mangrove
+mangrove sediments
+Mangrove soils
+manure
+manure digester
+marine
+marine biofilm enrichment culture containing D-Arabinose as the sole carbon source.
+marine environment
+marine sediment
+marine water
+mWWTPs inflow
+mWWTPs outlet
+natural water sources close by farm or community
+Nosocomial environment
+barn air sample
+barn boot swab
+barn dust sample
+Barn Environment
+barn litter swab
+barn swab
+Bedding (bos taurus)
+Biofilm fouling a methane capture system in an active sanitary landfill in Southern Ontario
+Biomedical waste site
+biosolids
+BS: Patient bathroom sink drain
+chicken farm
+chicken litter
+Chicken processing plant
+chicken slaughterhouse
+Chinese Duck Farm
+chromate-containing wastewater
+Cleaned poultry house
+cloaca swabs from commercial chicken farm
+cloaca swabs from commercial farm
+Clinical wastewater
+contaminated soil
+Cot
+cow dung pit
+Daily Bazar, Amingaon, NGTC
+dairy cattle manure digester
+dairy farm
+desert sand
+desert soil
+Exam table
+Eutrophic lake
+duedonoscope instrument
+DS: Common area dirty sink drain (ESwab)
+dripstand
+Defecation area
+Device
+Dumpsite
+Duodenoscope
+Estuarine mud
+Estuaring lagoon
+face mask
+fallen feather
+Farm
+farmer market
+fecal water
+feeding tube
+feedlot
+Floor drain
+Floor Trap Bathroom Room 1 Swab
+garbage in a public hospital
+hand wash basin
+Handwashing Sink
+hatchery swab
+In-house environment
+industrial effluent
+Industrial effluent
+industrial waste water
+Industrial zone of Bord Elarab city
+influent municipal wastewater
+Influent wastewater
+Klebsiella pneumoniae TIBU2.1 was isolated from Tavira urban sediment, using enrichment culture.
+Long-Term Care Facility
+Medical waste water
+medicine capsule
+meropenem treated soil
+microwave pre-treated clinical waste
+nursing call button in hospital intensive care unit
+organic polluted wastewater
+Out-of-house environment
+Outdoors environment of a veterinary clinic
+animal Farm
+Animal feed
+Animal manure
+Call light
+Canal
+Milal duck pit
+Milk waste container
+mine
+Mineral oil tank
+neonatology unit from Hospital
+NICU Sink drain biofilm
+nitro-aromatics containing industrial waste water
+O_Room_1_D_Organism_1
+O_Room_1_D_Organism_5
+oil contaminated soil collected from the Noonmati oil refinery
+oil field
+oil reservoir
+Mucilage in the Sea of Marmara
+municipal wastewater
+mycorrhiza of Pisolithus tinctorius from soil of Eucalyptus forest
+peat
+Peat soil samples
+Pavement of the street
+Patient or hospital wastewater site
+patient room
+Patient runs
+Patient space cages
+Patient space floor
+Patient cages
+permafrost
+Petroleum hydrocarbon contaminated soil
+Colonoscope
+combined sewer effluent
+commercial chicken farm
+Community and Hospital
+Complejo Asistencial Universitario de Salamanca (Salamanca)
+Complejo Hospitalario de Jaen (Jaen)
+Complejo Hospitalario de Pontevedra (Pontevedra)
+Complejo Hospitalario Universitario de A Coruna (A Coruna)
+Complejo Hospitalario Universitario de Albacete (Albacete)
+compost
+Computer keyboards
+coastal city
+Coastal Water
+Jahangirnagar University Canteen drain sediment
+ISS environmental surface
+activated sludge
+activated sludge [ENVO:00002046]
+Advanced resistive exercise device (ARED) foot platform Node 3
+acid mine decant and tailings from uranium mine
+Aerobic fed-batch lab bioreactor, inoculated from river sediment microbial communities and fed with benzalkonium chloride plus dextrin/peptone
+anaerobic bioreactor effluent
+Beijing
+bulk soil
+bulk tank milk
+cell phone
+China
+China: Anhui
+China: The First Affiliated Hospital of Zhejiang University
+Cleaning car
+Clinica Universitaria de Navarra (Navarra)
+Contaminated apheresis platelets stored in platelet additive solution
+Contaminated whole-blood-derived platelets
+Contaminated whole-blood-derived platelets stored in platelet additive solution
+Corporacio Sanitaria Parc Tauli (Sabadell)
+Corrosion products from a corroded pipe in an FPSO
+Ecological wastewater treatment
+swine farm
+surface
+surface of urinary catheter
+surface water
+surface water for irrigation
+surface-sterilized wheat seeds
+Surfaces
+swab from a follow-up assessment of the tap handles and sink edges after a first disinfection attempt
+swab from a hand-washing sink as part of the hospital routine surveillance program
+table surface in Bahri Market
+Taichung Veterans General Hospital
+summer air sample from childcare establishment
+Sun Yat-sen Memorial Hospital
+toilet
+Toilet
+Toilet seat
+toilet water
+Toilet/hopper water
+Toilette
+urban
+urban pond
+urban river
+urban river water
+Urban river water
+Urban soil
+tertiary hospital
+tertiary hospital, gynecology
+tertiary hospital, restaurant
+tertiary hospital, surgery
+tertiary treatment wastewater
+telephone of Nurse station
+tailing mud
+tannery waste
+tannery waste water
+tap
+Tap water
+the activated sludge of Harbin Taiping wastewater treatment plant
+Stormwater drain
+STP
+STP sludge
+STP Water
+Sponge (Environmental)
+soil
+Soil below an organic waste pile
+soil near the Lu'an Grease Factory
+soil sample
+Soil samples
+soil surrounding migratory bird colonies
+soil, pig
+soil/stream/plastic litter
+soli
+slaughterhouse wastewater
+sink
+Sink
+Sink - treatment area
+sink aerator
+Sink Area
+sink drain
+Sink drain
+Sink Drain
+Sink Drain swab
+Sink faucet
+Sink P Trap water
+Sink siphon water
+sink surface
+Sink swab
+sink tube
+sink water
+Sink-1BS
+Sink-1PS
+Sink-2BS
+Sink-2PS
+Sink-3PS
+Sink-4PS
+Siphon
+shower
+Shower 2
+Shower 3
+shower drain
+Shower drain
+Shower drain WC
+Shower plug
+shower room
+Shower siphon water
+sewage
+Sewage
+sewage contaminated river water
+sewage water
+Sewage water
+seawater
+secondary treatment wastewater
+sediment
+Sediment around river
+Sediment samples
+Hair cutting kit
+ground water
+grass from the park in a vetenary clinic
+grassland soil
+granitic rock core
+explosives contaminated soils from an explosives manufacturing plant
+drinking water
+dry sand
+crude oil
+Crude oil polluted soil
+mining soil
+Mooi River
+Ozama River
+polluted soil
+pond
+pond water
+Room 11 Drain
+Room 8 Drain
+Room_2_C_Organism_2
+Room_6_E_Organism_4
+Rm 14 Drain
+RM 3 Drain
+Rm 4 Drain
+rivulet water
+Rhizopshere
+rhizosphere
+rhizosphere of Zea mays
+rhizosphere soil
+rhizosphere soil in ginger field
+rhizospheric soil from unpolluted field/farm land
+rice field
+the rhizosphere soil of tea tree
+ward
+Wash
+washroom sink in hospital intensive care unit
+water from livestock farm
+water supply from a pigs farm
+water surface of oligotrophic pond
+WC edge inside
+WC flushing
+WC shower drain
+WC sink drains
+well water
+Well water
+wet market
+Wetland
+Zhangzhou Squirrel Snake Farm
+zoo environmental surface
+Zoo Ostrava
+Zoological Institution
+Detergent Flower service
+Detergent ICU
+Detergent Milk room
+Detergent Nurses Station
+Detergent Paediatric ward
+Detergent Pan room
+Ensuite 1/2
+Ensuite 3/4
+Facility A
+Facility B
+farm
+hospital
+Hospital
+hospital drain
+hospital environment
+hospital sewage
+Hospital sewage site 1
+Hospital sewage site 2
+Hospital sewage site 4
+Hospital sewage site 5
+Hospital sewage site 6
+Hospital sewage site 7
+Hospital sink drain biofilm
+Hospital sink p-trap water
+hospital surface
+Hospital toilet water
+Hospital waste water
+Hospital wastewater
+Hosptial waste water
+ICU Detergent brush
+Influent of wastewater
+rice rhizosphere soil
+River downstream water
+river water
+Riverbed sediment
+Room 15/16
+Room 8 Drain
+sediment
+Sewage
+Shower 2
+Shower 3
+Shower 4
+sink drain
+Sink drain aspirate
+Sink Drain swab
+Sink P Trap water
+siphon NICU
+soil
+Toilet/hopper water
+freshwater stream sediment
+baby bath drain
+ARJO bathroom
+Acute Care Hospital
+Activates sludge
+ultrasonography probe
+Ultrasound or radiography station
+Ulu Slim Hot Spring
+University of Michigan Health System
+Trolley Handle
+truck swab
+thyroid tablets
+Stethoscopes
+soap
+Small Animal Hospital, Chulalongkorn University
+slag sand
+sickbed swab
+Shoe
+Shanghai
+Shanghai East Hospital
+Seal
+screen
+salad kitchen drain
+rearing water
+public transports
+potable water
+potato plant root soil
+Poultry farming
+Poultry water
+pipes
+sea water
+Ensuite 5/6
+Ensuite 7/8
+backyard farm #9, cloacal swab #18
+Effluent
+monitor panel
+pasture
+platelet concentrate
+Primary Health center wastewater
+Pulse oximeter
+Stone
+Ureteroscope
+Urostomy Device
+Vent Surface
+ventilation drainage
+ventilator
+vermicompost
+Vermicompost
+Veterinary hospital surface
+Milk room
+Bedding (bos taurus)
+Fourchette
+Fiber bronchoscope lotion
+liquid hand soap (produced in Greece)
+liquid hand soap produced in Greece
+In-house bloodwork machine
+LTHU environment
+Single-dose transport bag
+Shenzhen
+South Tunisia
+Lyon
+Henan
+Greece
+textile tye and dye effluent
+Buenos Aires
+Lisbon
+Lyon
+Platelet bag
+Zhejiang
+residential aged care facility
+Opp. GNRC hospital
+cannula
+Plastic
+Communal_Q_Organism_2
+ENRH
+Straw
+
+"Birds"
+Bird
+Sturnus nigricollis
+Gull
+Migratory birds
+bird feces
+Black-collared Starling
+bubo
+domestic pigeon from market square
+duck
+Feces, Gull (Larus cachinnans)
+Feces, Gull (Larus spp.)
+Feces, Gull (Leucophaeus pipixcan)
+Malurus cyaneus
+Manorina melanocephala
+Dromaius novaehollandiae
+quail
+Red-breasted Parakeet
+Wild Bird
+crow
+Hill Myna
+Psittacus erithacus feces
+Eclectus roratus feces
+Fertilizer
+
+"Wild Mammals"
+south China tiger
+Ailuropoda melanoleuca
+African Elephants
+giant panda feces
+Kangaroo
+Otter, live
+Otter, small intestine
+panda
+Alpaca
+feces from giant panda at Shaanxi Rare Wildlife Rescuing and Breeding Center
+Malayan pangolin
+Manis javanica
+Loxodonta africana
+Panthera tigris Amoyensis
+Panthera tigris Amoyensis facel
+mink
+Monkey
+Wild boar
+wild yak feces
+White-lipped Deer
+Paguma larvata
+Saimiri sciureus
+
+"Invertebrates/Isopods"
+insect body
+insect gut
+isolated from fly samples
+adult insects fed artificial diets based on hydrolized protein and sugar
+adult male insect from field collected strain fed guava fruits
+Lepidoptera
+fly
+gut of black soldier fly larvae
+honeybee metagenome
+Orthoptera
+ant gut
+black soldier fly larvae (BSFL) gut
+Blattella germanica
+blood from silkworm suffering from septicemia
+digestive tracts of the insect
+adult insects fed liquid diet (100% cellulose matrix soaked in 11% saccharose in water)
+Dead Mole Cricket
+Enterobacter hormaechei isolated from the mindgut of wild Aedes albopictus in Mt Diao luo , Hainan province, Hainan, China in 2019
+entomopathogenic nematode Oscheius sp. MCB living in soil
+farm-reared cricket
+Isopoda
+pupal cells
+termite gut
+Acromyrmex fungus garden
+Apterostigma fungus garden
+cricket powder
+Trachymyrmex fungus garden
+white larva
+Musca domestica
+
+"Under-defined"
+North
+invitro experiment
+Isolate
+animal
+Antibiotic Resistance Surveillance Program
+gene knockout experiment
+isolate
+Isolate
+ISOLATE
+Mass
+diverse
+DNA extraction control; no fecal sample added to DNA extraction reagents
+decomposed grub time point 1
+decomposed grub time point 2
+microbial
+microbial mat
+organism
+other isolate
+Other sample
+Other source
+Other Source
+Other specimens
+Other sterile site
+Other Sterile Site
+OTHER_CLIN
+Other/unknown
+others
+Others
+OTHERS
+animal feces
+feces animal
+host-1
+Late-instar larval gut
+QEC
+Surveillance
+SURVEILLANCE
+surveillance culture: swab
+Surveillance culture: swab
+surveillance swab
+Surveillance swab
+Surveillance Swab
+suture swab
+swab
+Swab (Site:)
+swab (unspecified)
+swab sample
+Swab screening
+SWAB_OTHER
+Swab, other
+OT
+other
+Other (OTH)
+Other (Specify:)
+Other (U)
+Other (unknown)
+other discharge
+No Site specified Swab
+nosocomial infection
+2-3 butanediol fermentation
+Active screening
+Screening
+SCREENING
+screening sample
+screening swab
+Screening Swab
+physical
+Physical
+Screening
+SCREENING
+screening swab
+Screening swab
+other
+Other
+Combined swab
+Infant 1 DOL 23 gut
+Infant 1 DOL 25 gut
+Infant 2 DOL 27 gut
+drain
+Drain
+DRAIN
+drain water
+L3 Larvae
+Liquid
+ka
+Drain
+Patient or hospital wastewater site
+physical
+pooled swabs
+SITE
+sterile
+swab
+Swab
+wildtype obtained from ARisolateBank from CDC
+Parasitic infection
+Aerob
+Control
+builtntitis
+carcass
+Carriage
+Diapulate
+discharge
+DTA
+Hardware
+HWARE
+HBS
+INC
+TTH
+Intensive Care
+Intermediate-Care Facility
+Long-Term Care Facility
+Respiratory Medicine
+Respiratory Medicine Clinic
+Rheumatology Clinic
+Neurology
+Neurosurgery
+NHS Scotland
+Paediatrics
+Nephrology
+Infectious Diseases Unit
+Hematology
+Geriatric medicine
+Diabetology endocrinology
+Cardiac surgery
+Cardiovascular
+Cardiovascular medicine
+Clinical lab
+Clinical Lab
+Clinical Microbiology Laboratory
+Erciyes University, Faculty of Medicine
+Interal medicine
+Lab. Dr. Echevarne (Pontevedra)
+2018 (Ceuta)
+KP-S1 adding OMVs of KP-R1
+KPN7
+LD
+metagenome
+physiatry department
+C-Flasche?
+Bacterial isolate specimen
+Centre
+Carriage
+DTA
+Enterobacteriaceae
+lV
+screen
+SPU
+SUR
+ZXC
+scope
+RML
+Private Medical Laboratory
+PA
+NWASH TISSUE
+Mesocom
+MRV
+LJX
+LLE
+Lodz
+
+
+"Rodents"
+Mouse faeces
+mouse gut metagenome
+Caecal content of wild mouse
+Feces of mice
+Feces of Mus musculus strain C57BL/6
+Feces of SPF mouse
+mice gut
+rabbit
+mouse oral cavity and feces 5
+Pogonomys mollipilosus
+
+"Plants"
+Banana root
+banana with shearh rot
+banana with sheath rot
+epiphytes
+infected leaf
+Leaf endosphere
+leaf-cob
+Lignocellulosic waste products
+Aerial roots
+Agricultural field, aerial root mucilage
+Madhuca insignis leaf
+Phyllosphere
+stem
+greenhouse samples
+plant
+Plant
+plant rhizosphere
+Plant Root Soil
+Plant surface
+tobacco leaves
+sugarcane leaf, stem, root and rhizosphere soil
+sugarcane root
+root
+Root endosphere
+root nodules
+root nodules and soil
+Root nodules of groundnut plant
+Root tissue
+roots
+Seed mucilage
+seeds
+Crop
+Garcinia xanthochymus leaf
+Residue after extracting oil from oilseeds
+Salacia chinensis leaf
+Solanacea rhizosphere
+Dry seeds
+Fermented Seaweed Extract
+Field crops
+xylem sap
+
+"Food"
+food
+food production metagenome
+Food-waste compost
+foods
+Foodstuff sample
+fresh-cut fruits
+Frozen raw cat food
+fruit
+imported food: chilli pepper
+imported food: soy sprout
+Mango (whole or parts) [FOODON:03000217]; Ready-to-eat (RTE) [FOODON:03316636]; Food (sliced) [FOODON:00002455]; Food (frozen) [FOODON:03302148];
+Mango (whole or parts) [FOODON:03000217]; Ready-to-eat (RTE) [FOODON:03316636]; Food (sliced) [FOODON:00002455]; Food (frozen) [FOODON:03302148]; Retail environment [ENVO:01001448]
+peach
+Peach [FOODON:00002485]; Ready-to-eat (RTE) [FOODON:03316636]; Food (sliced) [FOODON:00002455]; Food (frozen) [FOODON:03302148];
+Pig, meat
+Poultry meat
+Poultry meat shop
+Raw Chicken
+Raw Egg
+raw fish
+raw milk
+Raw milk
+Raw Milk
+raw pet food
+Ready to eat
+retail chicken
+Retail Chicken
+Retail chicken meat from Dutch supermarkets
+Retail chicken skin
+retail fish market
+retail fresh cilantro
+retail markets
+retail meat
+retail milk
+Retail milk
+Retail Pork
+retail raw cream cow
+retail raw whole milk cow
+Retail Turkey
+Retailed Milk
+strawberries
+vegetable
+vegetables
+Retail chicken
+Raw broiler meat
+raw pet food
+chicken meat
+Pork Chop
+pork meat
+Pork meat
+pork sausage
+Alfalfa sprouts
+beef
+beef burger
+Bean sprouts
+Boiled egg
+boiled potato
+fish meat
+gizzard
+growing on Rhizopus stolonifer ioslated from strawberry
+Animal feed
+Avocado [FOODON:00003600]; Ready-to-eat (RTE) [FOODON:03316636]; Food (sliced) [FOODON:00002455]; Food (frozen) [FOODON:03302148];
+blue cheese
+carrot
+Carrots
+Cat food
+Cat Food
+Chevon
+Coconut meat [FOODON:00003856]; Ready-to-eat (RTE) [FOODON:03316636]; Food (chunks) [FOODON:00004555]; Food (frozen) [FOODON:03302148]; Retail environment [ENVO:01001448]
+Fishball
+garam masala hot spice mixture
+ghanaian yam
+Gulab jamun
+ice cream
+Leafy greens
+leaves from fresh vegetable
+Arugula
+Basil
+Basil, import product
+Beet
+brown mussels (Perna perna)
+Brussels sprouts
+cabbage
+cheese
+Cheese after GESM assay
+chili powder
+Chilli
+chicken meat
+Chicken meat
+chicken meat/poultry
+cilantro
+Citrullus lanatus
+Coriander, import product
+Corn Polenta
+dog food
+diced meat
+duck meat
+marjoram
+Marjoram
+meat
+Mozzarella
+Mushroom
+Mussels
+barn feed sample
+Chicken feed
+Chives
+cucumber
+cucumber fermentation brine
+dairy milk
+Dairy milk
+Escarole
+ladies finger
+lettuce
+Lettuce
+Lettuce Leaves
+Long Beans
+Mixed salads
+Celery
+cob
+feed
+Imported Fresh Produce
+Imported Fresh Produce 1
+Imported Fresh Produce 11
+Imported Fresh Produce 15
+Imported Fresh Produce 17
+Imported Fresh Produce 19
+Imported Fresh Produce 3
+Imported Fresh Produce 6
+milk
+milk from quarter (Bos taurus)
+minced meat
+Fresh produce
+Fresh Produce
+Fresh Produce 9
+Fresh produce/cucumber
+goat milk
+Ground beef
+Ground Beef
+Onion sprouts
+Palm wine
+pork
+Pork
+poultry
+Poultry feed
+Poultry house feed
+Pre-washed mixed salad, import product
+salmon
+SALMON (SA)
+Salami
+salad
+shrimp
+SHRIMP (SH)
+sprouts
+Sprouts
+spinach
+Spinach
+steamed bread
+tomato
+mutton
+Parsley
+Radish
+rugao ham
+roots from fresh vegetable
+Sichuan-style sausage
+Chili pepper
+dog food
+Food
+salad
+SHRIMP (SH)
+Mint
+Milk from quarter (Bos taurus)
+Frozen turkey ligament
+Grower Feed
+Indonesian Tempeh
+Fodder
+Bitter gout
+Burfi
+okra
+seafood
+
+"Aquatic Organisms"
+fish gut metagenome
+fish intestine
+Fish Kidney, Muscle and Liver
+Cat fish (Clarias gariepinus)
+fish
+Prawns
+gut contents of Mastacembelus
+Larimichthys crocea
+Bivalve mollusc
+clam
+Coral
+mackerel
+mahi mahi fish
+marine bivalve mollusc
+bacterial strain isolated from sardine
+Chlamydogobius eremius
+Ciliate: Heterometopus palaeformis
+Ciliate: Plagiopyla sp. strain OYSTR
+dinoflagellate
+Leipotheropon unicolour
+Etroplus suratensis
+oysters (Crassostrea spp.)
+The intestinal contents of Anabas testudineus
+tilapia
+crab
+wild-caught
+wild-caught Atlantic blue crabs
+Mugil cephalus
+Venus clam
+
+"Reptiles/Amphibian"
+Lampropholis guichenoti - Male
+Litoria pallida
+Notaden nichollsi
+Diplodactylus elderi
+Egernia formosa
+Elseya dentata
+turtle
+Ctenotus dux
+Ctenotus pantherinus
+Cuora flavomarginata
+Notaden nichollsi
+Pseudemoia entecasteauxii
+Ramphotyphlops grypus
+Varanus acanthurus
+Varanus brevicauda
+Uperoleia sp. Nov.
+
+"Body parts/fluids" --> must then be linked to host (living organism) - most likely human but we never know...
+mastitis
+abcess
+Abcess
+abcess isolate
+ABD
+Abd Fld
+abdomen
+abdomen (canis lupus familiaris)
+Abdomen Fluid
+abdomen isolate
+Abdomen Swab
+abdominal
+Abdominal
+abdominal abscess
+Abdominal abscess
+Abdominal Abscess
+Abdominal and right flank swab
+Abdominal ascites fluid
+abdominal cavity
+Abdominal cavity
+abdominal cavity apostem
+Abdominal cavity sample
+Abdominal clot
+abdominal collection
+abdominal drain
+abdominal drain fluid
+Abdominal drain fluid
+Abdominal drain tube
+abdominal drainage
+Abdominal Drainage
+abdominal drainage discharge
+abdominal drainage fluid
+Abdominal drainage fluid
+abdominal dropsy
+abdominal effusion
+Abdominal exit site wound
+abdominal fluid
+Abdominal Fluid; Bile
+Abdominal fluiduid
+Abdominal incision
+Abdominal Incision Tissue
+Abdominal infection
+abdominal punctate
+Abdominal pus
+abdominal secretion
+abdominal swab
+Abdominal swab
+abdominal tissue
+Abdominal Tissue
+abdominal wall abscess
+abdominal wound
+Abdominal wound
+Abdominal Wound
+abdominal wound isolate
+abdominal wound swab
+Abortion
+Abs/pus/wd
+ABSC
+absces
+abscess
+Abscess
+ABSCESS
+Abscess drainage
+Abscess drainage liquid
+Abscess fluid
+ABSCESS GALLBLADDER
+abscess hepatic
+Abscess pancreatic
+abscess puncture fluid
+abscess pus
+abscess swab
+Abscess swab
+Abscess Swab
+Abscess, Abdominal
+abscess, pelvic
+Abscess; pelvis
+Abscesses
+absess
+Acetabular Tissue
+adrenal gland
+aerobic blood culture bottle
+Airway specimen
+Airways
+Alar crease swab
+ALF
+alveolar bronchial lavage
+alveolar lavage
+Alveolar lavage fluid
+amniotic fluid
+Anal
+Anal abscess
+anal fistula
+Anal Gland secretions
+anal sample
+anal swab
+Anal swab
+Anal Swab
+anal swabs
+anal/rectal exudate
+ankle
+Ankle
+Ankle skin swab
+annal swab
+ano-rectal swab
+anoractal swab
+anorectal swab
+anus
+Anus
+anus swab
+Aortic root graft abscess
+Arm
+arterial blood
+ascites
+Ascites
+ASCITES FLD
+ascites fluid
+Ascites fluid
+ascitic fluid
+Ascitic fluid
+Ascitic Fluid
+ascitic fluid; L169M substitution in OXY-overproducing isolate led to a tradeoff between cefepime resistance, collateral piperacillin-tazobactam susceptibility, and decreased fitness
+Ascitic liquid
+Ascitic Liquide
+ascities
+Ascitis
+asictic fluid
+Asidic
+aspirate
+aspirate isolate
+Aspirate liver abscess
+ASPIRATE RIGHT HIP
+ASPIRATE_OTHER
+ASPIRATE_TRACHEAL
+aspirate, left breast
+Aspirate: endotracheal
+Aspirate: tracheostomy
+Aspirated bronchial secretion
+Aspiration
+ascending colon lumen
+axilla
+Axilla
+axilla - sample 1
+axilla - sample 2
+Axilla and groin swab
+axilla swab isolate
+Axilla Tissue
+Axilla/Groin
+axilla/groin swab
+axilla/groin/perianal swab
+Axillary
+Axillary smear
+axillary swab
+Axillary-groin swab
+baby blood culture
+back
+Back
+back wound
+Bacterial isolate specimen
+Bacterial isolate, Knee
+bacterial isolate, sputum
+bacterial isolate, wound
+bacteremia
+Bacteremia
+bal
+BAL
+BAL; right lung
+BAL/lower respiratory tract
+BALavage
+balf
+Balf
+BALF
+Bartholin gland
+BBA
+BC
+belly button
+bile
+Bile (fluid)
+bile Bronchoalveolar lavage fluid
+Bile drainage
+bile duct
+bile duct fluid
+bile fluid
+Bile fluid
+Bile Fluid
+bile from cholangiostomy
+bile isolate
+bile punctate
+bile punctate, colony 1
+bile punctate, colony 2
+bile, Blood
+Bile/Rectal swab
+biliar secretion
+Biliary drain
+Biliary Drain
+Biliary drain fluid
+Biliary drainage
+BILIARY DRAINAGE
+biliary fluid
+biliary fluid drainage
+biliary sample
+biliary stent
+Biloma drainage
+biological fluid and or tissue
+Biological sample
+biopsy
+Biopsy
+Biopsy: buttock
+Biopsy: flank
+Biopsy: thigh
+BIOPS
+Bite wound
+Bite Wound
+bite wound swab
+bite wound tissue
+bladder
+Bladder
+bladder catheter
+Bladder Stone
+bladder urine
+BLC
+blie
+Blind Protected Bronchial Sampling
+blood
+Blood (catheter tip)
+Blood (whole)
+Blood and wound
+blood catheter
+Blood colture
+blood culture
+Blood culture
+Blood Culture
+BLOOD CULTURE
+blood culture/respiratory culture
+Blood CVC
+blood isolate
+Blood Isolate
+Blood Peripheral
+Blood PICC Line
+blood sample
+blood specimen
+Blood specimen
+Blood Specimen
+blood total
+Blood Venou
+blood venous
+Blood Venous
+Blood_Blood
+Blood_Other
+BLOOD_OTHER
+BLOOD_WHOLE
+blood, liver abscess
+Blood, NOS
+blood, port
+blood, venous puncture
+Blood, whole
+Blood/CVC
+Blood/pneumoniae
+Blood/Rectal Swab
+Blood/Urine
+bloodstream
+Bloodstream
+bloodstream infection
+bloodstream specimen
+bodily fluid
+body
+body fluid
+Body fluid (not synovial); Biliary
+Body fluid (not synovial);Abdominal
+Body Fluid (Specify:)
+body fluid aspirate
+Body Fluid Back
+Body fluid culture: peritoneal fliud
+body fluid isolate
+body fluid, liver
+bodyfluid
+BodyFluid
+bone
+Bone (foot)
+bone biopsy femur
+bone biopsy hand
+bone biopsy humerus
+bone biopsy knee
+Bone Fragment
+bone isolate
+BONE LEFT HIP
+bone marrow
+Bone sample
+Bone Screw
+bone/joint
+Bones
+brain
+brain abscess
+Brain and liver
+brain biopsy
+breast
+Breast milk
+Breast Wound Swab
+Breast, Left
+Breathing tube
+Brocheal washing
+bronch
+Bronch
+bronch wash
+Bronch wash
+Bronch Wash
+Broncheal washing
+Bronchi
+bronchial
+Bronchial
+bronchial alveolar lavage
+Bronchial alveolar lavage
+Bronchial Alveolar Lavage
+bronchial aspirate
+Bronchial aspirate
+Bronchial Aspirate
+Bronchial aspirates
+Bronchial aspiration
+Bronchial aveolar lavage
+Bronchial Brush
+bronchial brushing
+bronchial exudate
+Bronchial fluid
+bronchial isolate
+Bronchial lavage
+bronchial perfusate
+bronchial sample from a male patient with chronic obstructive pneumonia
+bronchial secretion
+Bronchial secretion
+bronchial secretions
+Bronchial secretions/BAL
+bronchial wash
+Bronchial wash
+Bronchial Wash
+BRONCHIAL WASH
+Bronchial Wash (Lavage)
+Bronchial Wash Fluid
+bronchial washing
+Bronchial washing
+Bronchial Washing
+bronchial washings
+Bronchial washings
+Bronchial Washings
+bronchial; lavage RUL
+Bronchialveolar Lavage
+bronchioalveolar lavage
+Bronchioles
+Broncho alveolar lavage
+Broncho aspirate
+broncho-alveolar lavage
+Broncho-alveolar lavage
+Broncho-Alveolar Lavage
+broncho-alveolar lavage (BAL)
+broncho-alveolar lavage to possible find out bacterial colonizzation
+Broncho-alveolar liquid
+broncho-aveolar lavage
+Bronchoalveolar fluid
+BRONCHOALVEOLAR LAVA
+bronchoalveolar lavage
+bronchoalveolar lavage (BAL)
+Bronchoalveolar Lavage (BAL)
+bronchoalveolar lavage (BAL) fluid
+bronchoalveolar lavage fluid
+Bronchoalveolar lavage fluid
+Bronchoalveolar lavage fluid sample
+bronchoalveolar lavage from kidney transplant patient
+bronchoalveolar lavage isolate
+bronchoalveolar washing
+bronchoaspirate
+Bronchoaspirate
+Broncholaveolar lavage
+broncholveolr lvge fluid
+bronchoscope
+Bronchoscope
+Bronchoscopic brushing
+Bronchoscopy
+bronchoscopy sputum collection
+broncoalveolar lavage
+bronhial wash, left lung
+BRONW
+burn
+Burn
+burn biopsy
+Burn Patient
+burn wound
+Burn wound
+Burn Wound
+burn wound surface
+burn wounds
+buttock
+BUTTOCK
+buttock right
+caecal
+Caecal
+Caecal effluent
+caecum
+Cardiac Drain Swab
+Cath.V.O.S
+catheriter tip
+catheter
+Catheter
+catheter from patient in intensive care unit
+Catheter head
+catheter insertion site
+catheter site
+catheter tip
+Catheter tip
+Catheter Tip
+catheter tip isolate
+catheter urine
+Catheter urine
+Catheter Urine
+catheterized bladder urine
+catheteroximeter
+CatheterUrine
+Cecal
+cecal contents
+cecum
+Cecum
+CEH
+cellulitis/erysipelas
+central catheter
+Central Line
+Central Line White
+central nervous catheter
+Central nervous system
+central vein catheter
+central venous catheter
+Central venous catheter
+Central Venous Catheter
+central venous catheter tip
+Central venous catheter tip
+central venous catheters
+Central venous line
+cerebral spinal fluid
+Cerebral spinal fluid
+Cerebral Spinal Fluid
+Cerebrosipnal fluid
+cerebrospinal
+cerebrospinal fluid
+cerebrospinal fluid (CSF)
+cerebrospinal fluid, hospital
+Cervical Abscess
+Cervical discharge
+cervical swab
+Cervical swab
+cervicovaginal secretions
+cervix
+CGZ
+chest isolate
+chest tube
+Chest tube
+chest tube fluid
+Chest wall wound
+chin wound
+choanal swab
+Cholecystostomy tube bile
+Chronic wound
+clean catch midstream urine
+clean catch urine
+Clean Catch Urine
+clean urine
+clean-catch urine sample
+Clean-catch urine sample
+clinical
+clinical - separate
+clinical isolate
+clinical (patient)
+clinical material
+Clinical or carriage sample
+clinical or screening sample
+clinical patients
+Clinical Patients
+clinical sample
+clinical samples
+Clinical Setting
+clinical source
+clinical specimen
+clinical urine culture
+Clinical wounds
+clinically infected patient
+cloaca
+cloacae
+cloacal sample
+cloacal swab
+cloacal swabs
+cloacal swabs or voided feces
+closed abscess
+CNS
+Coccyx
+coelomic fluid
+Coelomic fluid
+collective feces
+colon
+Community-acquired Urinary
+conjunctiva
+Conjunctival
+conjunctival swab
+Corneal swab
+cranial bone flap
+CSF
+CSF- Extra-ventricular drain
+CT Picc Line
+cu-Catheter tube
+Culture Sterile Body Site
+Cutaneous
+Cutaneous Exudate
+Cutaneous ulcer
+cutaneus swab
+CV tip
+CVC
+CVC/BAL/Blood
+CVP Tip
+cyst
+Cyst
+decubitiis
+decubitus
+Decubitus
+Decubitus Sacrum
+decubitus swab
+Decubitus swab
+decubitus ulcer
+Deep abscess
+Deep Site Pus
+Deep Tissue
+deep tracheal aspirate (DTA)
+Deep Vein Catheter
+Deep venous catheter
+de-identified patient sample
+Dental Plaque
+dentin-pulp
+Dentine caries
+Derived from a feces isolated pathogen Shigella sonnei strain
+descending Colon
+descending colon mucosa
+devitalized tissue
+diabetic foot ulcer
+Diabetic ulcer
+Dialysis catheter
+Dialysis fluid
+Diaphragm tissue
+diarrhea
+Digestive
+discharge of drainage
+Distal bronchial sample
+Diversion fluid
+donor organ
+Donor Site
+drainage fluid
+Drainage fluid
+drainage liquid
+Drainage liquid
+Drainage of fluid
+Drainage samples from liver abscess
+drainage secretion
+drainage secretion, colony 1
+drainage secretion, colony 2
+drainage tube
+drainage, left groin
+drain drainage
+Drain fluid
+Drain Fluid
+Drain Fluid Culture
+drain inserting site
+drain liquid
+Drain Swab
+drain tip
+drainage effluent
+Draining tract
+Draining tract swab
+draining
+drained fluid
+drainage
+Drainage
+Duct
+ear
+ear discharge
+Ear secretion
+ear swab
+Ear swab
+Ear Swab
+EAR SWAB
+ECS
+elbow
+end of the catheter
+Endocervical
+Endocervical swab
+Endocervical Swab
+endophyte
+endoscope, BAL
+Endotrac Aspirate
+endotrach lavage
+Endotrachael
+Endotrachael Aspirate
+Endotrachael tube
+endotracheal
+Endotracheal
+endotracheal aspirate
+Endotracheal aspirate
+Endotracheal Aspirate
+Endotracheal Aspirate (ETA)
+endotracheal cannula
+Endotracheal secretion
+Endotracheal secretions / tracheal suction
+endotracheal sputum
+endotracheal tube
+Endotracheal tube
+endotracheal tube aspirate
+Endotracheal tube aspirate
+endotracheal tube swab
+Endotracheal wash
+Endotrachial Tube
+ENM
+ENT
+epithelium of nasopharynx [UBERON:0001951]
+Eschar
+esophageal aspirate
+ET Secreation
+ET secretion
+ET Tip
+ETA
+ETS
+ETT
+ETT Aspirate
+ETTA
+E-tube site
+E.T Tube aspirate
+excrement
+excreta
+excreted bodily substance
+Expectorate
+expectorated sputum
+expectoration
+Expectoration
+exsudates
+EXUD
+exudate
+Exudate
+EXUDATE
+eye
+eye isolate
+eye secretion
+Eye secretion
+eye swab
+Eye swab
+Eye Swab
+faecal
+faecal sample
+faecal screen
+Faeces or rectal swab
+Fat
+Fecal Matter
+fecal sample
+fecal samples
+fecal screen
+fecal swab
+Fecal swab
+feces extracted directly from colon
+Feces swab
+feces
+feces; ancestral strain
+feces; evolved day10-1
+feces; evolved day10-2
+feces; evolved day7-1
+feces; evolved day7-2
+feces; evolved day7-3
+feces; evolved day7-4
+feces; evolved day7-5
+feces; evolved day8-1
+feces; evolved day8-2
+feces; evolved day8-3
+feces; evolved day9-1
+feces; evolved day9-2
+fester
+Fester
+fistula
+Fistula
+Flank Skin Tissue
+fliud aspirate
+fluid
+Fluid
+FLUID
+Fluid - Bile
+Fluid - Pancreas
+Fluid - Peritoneal
+Fluid - Pleural
+FLUID (BODY)_ASCITIC
+FLUID (BODY)_PERITONEAL
+FLUID (BODY)_SPUTUM (BRONCHIAL SCOPE)
+FLUID (BODY)_SPUTUM (COUGHED)
+FLUID (BODY)_SPUTUM (INDUCED)
+Fluid Abdomen
+fluid abscess
+fluid bile duct
+Fluid from kidney
+Fluid gall bladder
+fluid isolate
+Fluid_Unknown origin
+fluid-bronchalveolar lavage
+Fluid, Ascites
+Fluid, Body, NOS
+Fluid; bile
+Fluid; Liver Bile
+FNA (pancreatic cyst)
+foetal appendages placentitis
+Folyes tip
+foot
+Foot
+Foot abscess
+foot isolate
+FOOT ULCER
+Foot Ulcer Swab
+Foot wound
+Foot/Hoof
+Forearm burn
+Forefoot
+Fracture
+fresh feces
+gall
+gall bladder
+Gall bladder
+Gall Bladder
+Gall bladder drainage
+Gallbladder Abscess
+gallbladder and bile
+GALLBLADDER FLUID
+gallbladder isolate
+gastric aspirate
+Gastric Contents
+gastric fluid
+Gastric Fluid
+gastric juice
+gastric lavage
+gastrointestinal
+Gastrointestinal
+GASTROINTESTINAL
+gastrointestinal fluid
+Gastrointestinal tract sample
+GASTROINTESTINAL/ABDOMINAL
+gastrostomy secretion
+general (wound, abcess, Etc.)
+General surgery
+genital
+Genital
+GENITAL
+Genital organ
+genital swab
+Genital Swab
+Genital tract
+Genital tract sample
+Genitourinary
+GRAFT
+Graft site
+granulation tissue
+Great trochanter
+grion
+groin
+Groin
+groin isolate
+Groin Isolate
+groin swab
+Groin swab
+Groin Swab
+GROIN SWAB
+groin wound
+Groin wound
+G-tube swab
+gut
+Gut
+Haematoma gall bladder
+haemoculture
+Hair
+hand
+Hand
+hands and beard
+Hand swab
+Hand Swab
+Hand swabs
+head
+head tissue
+Healthy individual
+Heart valve
+heel
+Heel
+hematoma
+hemocoel swab
+hemoculture
+Hemoculture
+hemolymph
+hepatic abscess
+Hepatic abscess fluid
+Hepato/biliary
+Hepatobiliary surgery
+Hick Brown Lumen
+Hickman Catheter
+Hickman line Blood (whole)
+Hickman red lumen
+high vaginal swab
+High vaginal swab
+hip
+Hip
+hip isolate
+hip joint
+hip joint aspirate
+hip prothesis biopsy
+Hip Tissue
+Hip wound
+hospital-1, ICU, urine sample #31
+hospital-1, ICU, urine sample #45
+hospital-2, ICU, urine #39
+hospital-2, ICU, urine #7
+hospital-2, OP, stool #2
+hospital-2, OP, stool #6
+hvs
+HVS
+hydrothorax
+Hydrothorax
+hydrothorax and ascites
+Hydrothorax and Ascites
+ileostomy
+incision
+Incision
+INCISION
+Incision Dehiscence Tissue - R Thigh
+incision secretion
+Incision secretion
+incision site
+incision swab
+Incision swab
+Incision Wound
+induced sputum
+Induced Sputum
+INDUCED SPUTUM
+infant feces
+infant sputum
+infant stool
+infected knee amputation site
+Infected pancreatic necrosis
+Infective secretion
+Indwelling catheter
+indwelling device
+Indwelling suction
+indwelling urinary catheter
+infection
+Infection culture
+Ingle
+Inguinal fold swab
+Inguinal liquid
+Inguinal secretion
+inguinal swab
+innduced sputum isolate
+In/Out Catheter Urine
+intestinal
+intestinal contents
+Intestinal contents
+Intestinal mucosa tissue
+intestinal stoma
+intestinal tissue
+intestinal tract
+intestine
+intestines
+Intestines of patients
+intra-abdominal
+Intra-abdominal
+intra-abdominal abscess
+Intra-abdominal drainage
+intra-abdominal fluid
+Intra-abdominale
+Intra-operative swab
+intraabdominal
+Intraabdominal
+intraabdominal abscess
+Intraabdominal tissue
+Intracerebral material
+Intracranial infection
+Intracranial sinus
+intraoperative
+Intraperitoneal
+Intraperitoneal drainage
+Intraperitoneal Fluid
+intravenous catheter
+IR drain
+Ischial wound
+isolate, blood
+Isolate, Blood
+Isolate, Coccyx
+Isolate, Other
+Isolate, Shoulder
+Isolate, Sputum
+Isolate, Urine
+IV catheter
+J-tube site
+Jaw
+jejunal aspirate
+jejunum
+joint
+Joint
+joint fluid
+Joint fluid
+Joint swab
+JPB Fluid
+JPB1
+kidney
+Kidney stone
+Kidney Urine
+kidney, liver
+knee
+Knee
+Knee infection
+knee isolate
+Knee secretion
+Knee Tissue
+L. foot wound
+Labia
+large colon
+laryngeal suction
+Laryngeal suction
+laryngeal swab
+Larynx
+lavage
+Lavage
+Lavage - Bronchial
+Lavage -Bronchial
+lavage fluid
+Lavage fluid
+Lavage, Bronchial
+Left ACA stump
+Left breast pocket
+left buttock
+Left Ear
+Left Foot
+Left foot wound
+left groin wound
+LEFT HEEL TISSUE
+left hip
+left kidney
+Left kidney stone
+left leg
+left stump isolate
+left thigh tissue
+Left Toe Tissue
+Left tribial wound
+LEFT UPPER EXTREMITY
+Left upper extremity tissue
+leg
+Leg
+Leg pus
+leg swab
+Leg Swab
+leg thigh
+Leg Tissue
+Leg ulcer
+leg wound
+Leg wound
+LEG WOUND
+Leg, Left
+Leg, Right
+lesion
+Lesion
+Lession
+Leucorrhea
+leukorrhea
+line tip
+Lining of Ventral Abdominal Incision Once Reopened
+liquor
+Liquor
+liver
+liver abscess
+liver abscess drainage fluid
+liver abscess patient
+Liver abscess puncture fluid
+Liver cyst
+Liver drainage
+liver fluid isolate
+liver punctate
+Liver puncture
+liver puncture fluid
+liver tissue
+liver, lungs
+Lower leg
+lower respiratory
+lower respiratory tract
+Lower respiratory tract
+lower respiratory tract (LRT) secretions
+Lower Respiratory Tract Secrection
+Lower Respiratory Tract Secrection (aspirate)
+Lower Respiratory Tract Secrection (aspirated tracheal)
+Lt groin wound
+lumbar drain tip
+Lumbar spine subcutaneously
+lung
+lung abscess
+Lung aspirate
+Lung space occupying lesion
+lung tissue
+lung tissue grind
+Mandible
+material from head surgery
+maxillary sinus
+meconium
+mediastinal mass
+Mediastinum Swab
+Meningitis
+Metatarsal Bone
+Metatarsal Wound
+mid-portion urine
+mid-stream urine
+Mid-stream urine
+Mid-stream Urine
+Middle Ear Swab
+middle urine
+midgut
+Midpiece urine
+midstream specimen of urine
+Midstream specimen of urine
+midstream urine
+Midstream urine
+Midstream Urine
+midstream urine specimen
+mindgut
+mini BAL
+Mini BAL endotracheal
+mini-BAL
+MiniBAL
+miscellaneous body fluid
+Mother’s milk
+Mouth
+mouth injury
+mouth swab
+MSU
+mucosal swab
+muscle
+nail
+Nail
+nares
+Nares and Perirectal
+Nares swab
+nares/axilla/groin
+nasal
+Nasal biopsy
+nasal cavity
+Nasal discharge
+Nasal flush and tearduct swab
+nasal mucosa
+nasal mucosal swab
+Nasal mucosal swab
+nasal polyp
+Nasal secretion
+nasal swab
+Nasal swabs
+nasogastric tube
+nasopharyngeal aspirate
+Nasopharyngeal aspirates
+nasopharyngeal swab
+nasopharynx
+Nasopharynx aspirate sample
+Navel
+neck
+Neck
+neck wound
+necropsy
+necroptic material
+Necrotic pancreatic tissue
+Necrotizing tissue
+Neonatal
+Neonatal Blood
+neonatal screen
+Nephretic drain fluid
+nephrostomy
+nephrostomy swab
+nephrostomy urine
+Nephrostomy Urine
+newborn feces
+nipple skin swab
+nipple swab
+Non-bronchoscopic bronchoalveolar lavage
+Non-wound abdominal
+nonsputum specimens
+nose
+Nose
+nose swab
+Nose throat swab
+Nosocomial Urinary
+Ocular
+open abscess
+Open fracture biopsy
+Open pus
+oral
+Oral
+oral cavity
+oral cavity pus
+oral metagenome
+oral mucosa
+oral mucosal discharge
+oral pharynx
+oral swab
+Oral swab
+ORG
+Organ
+ORGAN
+ORINE
+Oropharyngeal swab
+oropharyngeal swab of pharynx
+oropharynx
+Orotracheal aspirate
+orotracheal secretion
+Orthopaedic screws
+osteomuscular secretion
+Other (abdominal)
+Other (abscess)
+Other (aspirated tracheal)
+Other (BAL)
+Other (bile)
+Other (biopsy material)
+Other (biopsy)
+Other (BS)
+Other (CAPD)
+Other (catheter tip)
+Other (catheter)
+Other (central venous catheter)
+Other (cerebrospinal fluid)
+Other (cervix)
+Other (CVC)
+Other (CVP)
+Other (drainage)
+Other (endodfluid)
+Other (exudate)
+Other (feces)
+Other (fistula swab)
+Other (fluid)
+Other (foreskin swab)
+Other (gall bladder)
+Other (glans)
+Other (intraabdominal abscess)
+Other (liquid abdomen)
+Other (liquid drain)
+Other (membrane bone implants)
+Other (nasal)
+Other (ocular swab)
+Other (pancreas secretion)
+Other (percutaneous abscess drainage)
+Other (peritoneal fluid)
+Other (phanrynx swab)
+Other (pus)
+Other (secretion)
+Other (skin swab)
+Other (skin)
+Other (sputum)
+Other (swab skin catheter)
+Other (swab)
+Other (Tdrain)
+Other (throat swab)
+Other (tissue)
+Other (tonsil swab)
+Other (tracheoflex)
+Other (tube)
+Other (urinary catheter)
+Other (vaginal swab)
+Other (vascular prosthesis)
+Other clinical sources
+otitis
+otorrhea
+outer malleolus
+pancreas
+Pancreas
+Pancreatic Fluid
+Pancreatic tissue
+paracentesis aspirate
+parotid tissue
+parotidectomy
+pathological tissue
+patient fluids
+Peg site
+PEG site
+PEG Site
+peg site abscess isolate
+PEG swab
+PEJ swab
+Pelvic
+pelvic abscess
+Penile Amputation Discharge
+penile discharge
+penile lesion
+penis
+penis wound
+penrose upper abdomen
+Percutaneous abscess drainage
+Percutaneous drainage
+perfusion fluid
+Peri-anal
+peri-anal swab culture
+Peri-rectal
+perianal
+Perianal
+PERIANAL
+Perianal abscess
+perianal isolate
+perianal skin [UBERON:0012336]
+Perianal Skin Tissue
+perianal swab
+Perianal swab
+Perianal Swab
+perianal swab sample
+pericardial fluid
+Pericardial fluid
+pericardium
+perineal exudate
+Perineal smear
+Perineum
+Perineum swab
+peripheral blood
+Peripheral catheter
+peripherally inserted central catheter
+Peripherally Inserted Central Catheter
+perirectal
+Perirectal
+perirectal swab
+Perirectal Swab
+peritoneal
+Peritoneal
+peritoneal cavity fluid
+Peritoneal dialysis catheter
+Peritoneal dialysis fluid (PDF)
+peritoneal drainage
+Peritoneal drainage fluid
+peritoneal fluid
+Peritoneal fluid
+Peritoneal Fluid
+PERITONEAL FLUID
+peritoneal fluid acites
+peritoneal fluid ascites isolate
+Peritoneal fluid sample
+Peritoneal fluid/ascites
+Peritoneal lavage
+Peritoneal liquid
+Peritoneal pus
+peritoneal secretion
+peritoneal swab
+peritoneum
+Peritoneum
+Peritonial fluid
+Permacath
+pharingeal exudate
+pharyngeal mucus
+Pharyngeal mucus
+pharyngeal secretions
+pharyngeal swab
+Pharyngeal swab
+pharynx
+Pharynx
+Pharynx mucosa
+Phelegm
+phlegm
+Phlegmatic
+PICC line
+PICC Line
+placenta
+Pleral fluid
+Pleural
+Pleural aspirate
+Pleural cavity
+pleural effusion
+Pleural effusion
+Pleural Effusion
+pleural exudate
+Pleural fibrin
+pleural fluid
+Pleural fluid
+Pleural Fluid
+Pleural fluid (thoracentesis fld)
+pleural fluid isolate
+Pleural liquid
+pleural mass aspirate swab
+pleural punctate
+pleural puncture
+Pleural tissue
+Plueral fluid
+pooled feces
+Port Brown
+postoperative intraabdominal drainage liquid
+postoperative suture discharge
+Postoperative wound
+pressure ulcer
+pressure ulcer swab
+Primary bloodstream infection
+prostatic fluid
+Prostatic fluid
+prosthesis
+prosthetic material
+Prothesis
+PTC fluid
+PTC Fluid
+PTCD drainage
+pulmonary fluid
+pulmonary sample
+punctate
+punctate from hip
+punctate from liver abscess
+punctate from the abdomen
+puncture fluid
+Puncture fluid
+Puncture Fluids
+puncture liquid
+Puncturesolution
+purulent discharge
+purulent material
+purulent specimen
+purulent wounds
+purulent-necrotic detritus
+pus
+Pus
+PUS
+Pus (Bed sore)
+Pus (wound)
+pus aspirate
+pus cholecystitis
+Pus from thigh
+pus from wound
+Pus from Wound
+Pus swab
+Pus Swab
+pus swab from leg
+pus, prostatic punctate
+Pus/Wound swab
+Pyogenic liver abscess
+Pyometra
+quirurgical wound exudate
+R 5th toe ulcer
+R. tibia medulla
+rectal
+Rectal
+RECTAL
+Rectal & groin swab
+Rectal carriage
+Rectal colonization
+rectal exudate
+rectal isolate
+Rectal mucose
+Rectal sample
+rectal screen
+Rectal screen
+rectal screen swab
+rectal screening
+Rectal screening swab
+rectal smear
+rectal smear surveillance
+Rectal specimen
+Rectal surveillance swabs
+rectal swab
+rectal Swab
+Rectal swab
+Rectal Swab
+RECTAL SWAB
+rectal swab - sample 1
+rectal swab - sample 2
+rectal swab (isolated in house)
+rectal swab (primary)
+rectal swab isolate
+Rectal swab sample
+Rectal swab to find out bacterial colonizzation
+rectal swab, colony 1
+rectal swab, colony 2
+Rectal swab/Bile
+Rectal Swab/Blood
+rectal swab/stool
+Rectal swab/stool
+rectal swabs
+rectal swap
+rectal swb
+rectal wipes
+Rectal, surveillance program
+rectal/anal
+Rectal/Perirectal
+Rectalswab
+Rectasl swab
+rectum
+Rectum
+RECTUM
+rectum isolate
+rectum swab
+Rectum swab
+Rectum Swab
+redon drainage
+renal perfusate
+Renal perfusate
+renal perfusion fluid
+Renal puncture
+Renal stone
+resp Cx
+respiratory
+respiratory culture
+respiratory culture: Tracheal Aspirate
+respiratory isolate
+respiratory sample
+Respiratory sample
+Respiratory Sample
+respiratory secretion
+Respiratory secretion
+respiratory secretions
+Respiratory specimen
+Respiratory swab
+respiratory system
+respiratory track
+respiratory tract
+respiratory tract sample
+Respiratory tract sample
+respiratory tract secretion
+respiratory tract specimen
+Respiratory, Nose
+Retained placenta product
+Retroperitoneal Fluid
+Retroperitoneum
+Right Flank Drainage
+right foot
+Right Foot
+Right Foot - Tissue
+right hip
+right hip sinus tract tissue
+Right inner gluteal pilonidal
+right leg
+Right leg wound
+right lower leg
+Right,Knee Fluid
+rumen
+rumen content
+Rumen content
+rumen fluid
+sachral
+sacral
+Sacral swab
+sacral tissue
+sacral ulcer
+Sacral ulcer
+Sacral Ulcer
+sacral ulcer swab
+sacral wound
+sacrum
+Sacrum
+Sacrum Abscess
+sacrum drainage
+salivary gland
+salivary tissue
+same blood draw as MB8764
+Sanies
+scalp
+Scalp Wound Swab
+Screen swab
+Screen: anus
+Screen: faeces
+Screen: rectum
+screening_other_than_rectal
+Scrotal mass swab
+Scrotal Wound
+scrotum
+Scrotum
+secret
+secret from the respiratory tract
+secret from the wound
+secret of the respiratory tract
+secreta
+Secreta
+secretion
+Secretion
+Secretion of sternum incision
+secretions
+Secretions
+semen
+Seminal fluid
+separated from patient's sputum
+Sepsis
+septic exudate abcess
+shunt fluid
+Shunt fluid
+sinus
+Sinus
+Sinus Swab
+site of inflammation in burn patient
+skeletal muscle
+skin
+Skin and Soft Parts
+Skin and soft sample
+skin and soft tissue
+Skin and soft tissue
+skin and soft tissues
+skin biopsy
+skin exudate
+Skin exudate
+skin isolate
+skin lesion
+Skin scraping
+skin soft tissue
+skin swab
+Skin swab
+Skin Tissue
+skin ulcer
+Skin ulcer
+skin wound
+skin/soft tissue
+Skin/soft tissue
+SKIN/SOFT TISSUE
+slough from ulcer
+smear from the endotracheal cannula
+smear from the tonsils
+snake-bite wound
+soft tissue
+Soft tissue
+Soft tissue biopsy
+Soft tissue infection
+Sore swab
+specimen from respiratory system
+Specimen from wound
+Sperm
+spinal fluid
+spine
+Spinous process
+spleen
+Splenic fine needle aspirate
+sptum
+Sptum
+sputamentum
+Sputamentum
+Sputm
+SPUTM
+sputum
+sputum culture
+sputum expectorated
+Sputum from a patient
+sputum from COVID-19 patient
+sputum from patient with respiratory tract infection
+sputum induced
+Sputum Induced
+sputum isolate
+Sputum isolate
+Sputum Isolate
+sputum or bronchoalveolar lavage fluid
+Sputum sample
+sputum sample from hospital patient
+sputum samples
+Sputum specimen
+sputum tracheal aspirate
+sputum tracheal isolate
+sputum unspecified
+sputum-aspirate
+Sputum-aspirate
+sputum-tracheal
+Sputum-tracheal
+sputum, eravacycline derivative isolate of Klebsiella pneumoniae EKP30
+Sputum, Expectorated
+sputum, induced
+sputum; induced
+Sputum; Induced
+Sputum; tracheal aspirate
+Sputum;Endotracheal
+sputum/endotracheal secretions/bronchoalveolar lavage
+Sputum/TA
+ST2_Stool_Organism_1
+ST2_Stool_Organism_2
+ST3_Stool_Organism_1
+ST3_Stool_Organism_2
+ST4_Stool_Organism_1
+ST4_Stool_Organism_2
+ST4_Stool_Organism_3
+ST4_Stool_Organism_7
+sterile body fluid
+Sterile Body Site
+Sterile Fluid
+sterile site
+sternal wound
+sternum
+Sternum fluid
+stoma swab
+Stoma swab
+stomach
+Stomach Content
+stool
+stool (rectal swab)
+Stool / Rectal Swab
+stool isolate
+stool of a summer diarrhea case
+stool sample
+stool samples
+Stool specimen
+Stool swab
+Stool/ Rectal Swab
+stool/fecal isolate
+Stool/R S
+stool/rectal swab
+Stool/Rectal swab
+Stool/Rectal Swab
+Stool/RS
+stools
+Stools
+Straight Cath
+Stuhl
+Subamniotic Swab
+subclavian catheter
+Subclavian catheter
+Subclavian vein catheter tip
+Subcutaneous flap
+subglottic space
+suction catheter
+Suction tip
+suctioned material from the airways
+Superficial Swab
+superficial wound at the groin (human)
+Superficial Wound Swab
+superficial wound swab abdomen
+Suppuration
+suprahepatic collection
+Surgery Swab
+Surgical Bowel Incision
+Surgical culture
+surgical drain
+surgical drain surveillance
+Surgical ICU
+Surgical infection
+surgical infection site
+surgical site
+Surgical site
+Surgical Site
+Surgical Site | A.V.Valve
+Surgical site infection
+Surgical specimen
+surgical swab
+Surgical Swab from Abdo
+surgical wond
+surgical wound
+Surgical wound
+Surgical Wound
+Surgical Wound Dehiscence
+Surgical Wound Infection
+Surgical wound pus
+Surgical Wound Secretion
+swab - axilla
+swab (cavity)
+swab (superficial and non-surgical)
+swab (wound)
+Swab anal
+Swab butocks
+Swab Foot
+swab from around the abdominal drainage
+Swab from infected site
+Swab from Pharynx
+Swab from tracheostomic tube
+swab hip joint
+Swab Ileum Conduit
+Swab inguinal
+Swab lower leg
+swab of buccal mucosa
+swab of genitalia
+Swab Perianal
+Swab perineum
+Swab Throat
+Swab Urostoma
+SWAB_ABSCESS
+SWAB_ULCER
+SWAB_WOUND
+Swab- Foot
+Swab-Peg site
+Swab-Stoma
+swab, rectal
+Swab, rectal
+Swab, Rectal
+synovial fluid
+Synovial fluid
+Synovial Fluid
+Synovial fluid (Joint fluid)
+synovial fluid/joint fluid
+synovial/ joint fluid
+tail
+teat swab
+Testicle
+thigh
+Thigh tissue
+thoracic cavity
+Thoracic sugery
+throat
+throat culture
+throat mucosa
+throat swab
+throat swabs
+throat swap
+throat/groin
+tibia
+Tibia
+Tibia Tissue
+TIP
+tip from a venous catheter
+tip from an indwelling urinary catheter
+tip from urinary catheter
+Tip, Femur
+TISSU
+tissue
+Tissue
+TISSUE
+Tissue : Abdomen
+Tissue : Leg
+Tissue (Specify:)
+tissue biopsy
+Tissue Culture
+tissue excision
+tissue fluid
+tissue from diabetec foot ulcer
+tissue from ulcer
+tissue isolate
+TISSUE LEG R
+tissue lung
+tissue sample
+Tissue samples
+Tissue specimen
+Tissue Specimen
+Tissue Swab
+Tissue ulcer
+TISSUE_ABSCESS
+TISSUE_OTHER
+Tissue_Other_Perianal deep tissue
+tissue, L hip
+Tissue, Lft Anterior Thigh
+tissue, R groin
+Tissue, Spine
+Tissue(wound)
+tissue/sterile fluid
+Tissues
+toe
+Toe
+Toe Bone
+Toe Bone swab
+Toe web space swab
+Toe wound
+Toenail site swab
+tonsil
+tonsil tissue
+tonsiles swab
+tr-tracheal fluid
+Trach
+TRACH
+trach asp
+Trach Asp
+TRACH ASP
+trach asp.
+Trach Aspirate
+TRACH ASPIRATE
+Trach Site
+trach swab
+Trachaeal secretion
+trachael aspirate
+Trachael aspirate
+Trachael Aspirate
+trachea
+Trachea aspirate
+Trachea Aspirate
+TRACHEA ASPIRATE
+Trachea cannula
+trachea isolate
+trachea secretion
+tracheal
+Tracheal
+tracheal apirate
+tracheal aspirate
+tracheal aspirate isolate
+tracheal aspirate/wash
+Tracheal Aspirate/Wash
+tracheal aspirates
+Tracheal aspirates
+tracheal aspiration
+Tracheal aspiration
+tracheal aspriate
+tracheal catheter
+Tracheal fluid
+tracheal intubation
+Tracheal intubation
+tracheal intubation tip
+Tracheal lavage
+tracheal secretion
+Tracheal secretion
+Tracheal Secretion
+Tracheal secretions
+Tracheal Secretions
+tracheal suction sputum
+tracheal swab
+tracheal tube
+Tracheal wash
+Tracheal Wash
+tracheo-bronchial aspirate
+Tracheobronchial
+Tracheobronchial lymph nodes
+Tracheostomy
+Tracheostomy Aspirate
+Tracheostomy site
+Tracheostomy site drainage
+tracheostomy swab
+Tracheotomy tube swab
+trakea
+Transcatheter BC
+transtracheal aspirate
+Transtracheal aspirate
+Transtracheal aspirate sample
+transtracheal aspiration
+Transtracheal Wash
+transurethral permanent catheter
+traqueal aspirate
+Traqueal aspirate
+trauma
+traumatic discharge
+tube tip
+uirne
+ulcer
+Ulcer
+ULCER
+ulcer exudate
+Ulcer foot
+Ulcer Right Foot
+ulcer swab
+ulcer, decubitius
+Ulcer; decubitis
+ulcerated dermal mass
+Umbilical abscess
+Umbilical cord
+Umbilical pus
+Umbilical swab
+umbilicus
+Umbilicus
+unspecified diagnostic sample
+upper respiratory tract
+UR CATH
+UR CVS
+UR ILEAL LP
+UR Kidney ASP
+ur-Urine
+urea
+Ureteral stent
+Ureteral Stent
+urethra
+urethral
+Urethral
+Urethral discharge
+urethral swab
+Urethral swab
+Urethral Swab
+Urethral swab to possible find out bacterial colonizzation
+urethral swabs
+urina
+urinary
+Urinary
+URINARY
+urinary catheter
+Urinary catheter
+Urinary Catheter
+Urinary catheter specimen
+urinary infection
+urinary tract
+Urinary tract
+Urinary Tract Catheters
+urinary tract infection
+Urinary tract infection
+Urinary tract sample
+urine
+Urine - Bag
+Urine - Catheter
+Urine - Cl catch
+Urine - Cystoscopy
+Urine - Ileal conduit
+Urine - In/Out Catheter
+Urine - MSU
+Urine - Nephrostomy
+urine - permanent urinary catheter
+urine (bladder)
+urine (catheter)
+Urine (catheter)
+urine (catheterized)
+Urine (Cysto)
+urine (foley)
+Urine (foley)
+Urine (midstream specimen of urine)
+urine (permanent catheter)
+urine (suprapubic catheter)
+Urine (venous catheter)
+Urine Blad
+urine bladder isolate
+urine cath
+Urine Cath
+urine catheter
+urine Catheter
+Urine catheter
+urine cathether
+urine cc
+urine clean catch
+Urine clean catch
+urine clean catch isolate
+Urine collected by free catch sample
+Urine collected via cystocentesis
+urine culture
+Urine culture
+Urine Culture
+URINE CULTURE
+urine CVS
+Urine CVS
+Urine Cystocentesis
+Urine first void
+urine foley
+urine foley catheter
+urine from catheter
+Urine from hospitalized patient
+urine from indwelling catheter
+Urine from Indwelling Catheter
+urine from nephrostomy
+Urine Ileal LP
+urine isolate
+Urine Kidney ASP
+urine metagenome
+Urine permanent catheter
+urine sample
+Urine sample
+Urine Sample
+Urine specimen
+Urine specimen obtained by clean catch procedure
+urine straight cath
+urine straight catheter
+Urine Swab
+Urine to find out possible bacterial infection
+Urine to possible find out bacterial infection
+urine tube tip
+urine unspecified
+Urine_
+Urine_2
+Urine_3
+URINE_CATHETER (INDWELLING)
+URINE_CATHETER (STRAIGHT)
+Urine_Clean catch/voided
+URINE_CLEAN CATCH/VOIDED
+URINE_OTHER
+urine-cystocentesis
+urine-void
+urine, catheter
+Urine, Catheter
+Urine, Catheterized
+urine, clean catch
+Urine, clean catch
+Urine, Clean catch
+Urine, Clean Catch
+Urine, clean-voided
+Urine, cytoscopy
+Urine, first void
+urine, indwell
+urine, indwelling cath
+Urine, mid stream
+urine, straight cath
+urine, voided
+urine; catheter
+urine; left nephrostomy
+Urine;clean catch
+Urine/Catheter
+Urine/Genitourinary
+Urines
+Urology Surgery
+urostomy
+Uterine Stump
+Uterus
+uterus discharge
+Uterus Swab
+UTI
+UVC tip
+vagina
+Vagina
+vaginal discharge
+vaginal metagenome
+vaginal secretion
+Vaginal secretion
+vaginal swab
+Vaginal swab
+Vaginal Swab
+Vaginal swab to possible find out bacterial colonizzation
+vaginal-cervical fluid
+Vascular catheter
+Vascular catheter blood
+Vascular Catheter Tip Culture
+Venipuncture BC
+venipuncture tube
+venous blood
+venous blood of patient with cerebral hemorrhage
+venous catheter
+Venous catheter
+Venous catheter tip
+venous duct
+vent drain
+Ventilator-associated pneumonia
+Viral infection
+Vitreous fluid
+vomit of a patient
+Vulvar secretions
+WAQ
+whole blood
+Whole mouth swab
+Wond
+Would
+wound
+Wound - abdominal
+Wound - deep sinus
+Wound - right leg
+Wound - sacrum
+Wound / skin / soft tissue
+wound abdomin
+wound abscess
+Wound abscess
+Wound and pus from knee
+Wound and soft tissue
+wound culture
+wound discharge
+Wound discharge
+Wound Discharge
+Wound discharge sample
+Wound drain fluid
+wound drainage
+Wound drainage
+Wound Drainage
+wound exudate
+Wound exudate
+Wound Exudate
+Wound fluid
+wound infection
+wound isolate
+wound mid line incision
+wound or tissue
+wound pus
+WOUND PUS DRAINAGE
+Wound Sacrum
+wound secretion
+Wound secretion
+Wound Secretion
+Wound Secretion (abscess)
+Wound Secretion (genital discharge)
+Wound Secretion (stomach tissue)
+Wound Secretion (swab)
+Wound Secretion (wound)
+wound secretions
+wound surface
+wound surgical
+wound swab
+Wound swab
+Wound Swab
+Wound swab (abdomen)
+Wound swab (groin L)
+wound swab (lower limb)
+Wound swab foot
+wound swab from ulcer
+Wound swab knee
+Wound swab pancreatic pseudocyst
+wound swab, colony 1
+wound swab, colony 2
+Wound swab;left leg
+wound swap
+Wound Thigh Secretion
+Wound Tissue (Site:)
+wound unspecified
+WOUND_OTHER
+Wound_Other_Foot
+wound-abdominal
+Wound-Buttock
+Wound-Neck
+wound-thigh
+Wound, Back
+wound, drain right lower quadrant
+Wound, L Plantar Foot
+Wound, left leg
+wound, pus
+Wound, Sacral
+wound, sacrum
+Wound, Surgical Rt Leg
+wound; abdomen
+wound; buttocks
+Wound; elbow left
+Wound; leg
+Wound; shin left
+Wound: abdomen
+Wound: heel
+Wound: knee
+Wound: sacrum
+Wound: shin
+Wound/Abscess
+WOUND/ABSCESS
+wound/skin swab
+Wound/skin swab
+wound/skin/soft tissue
+Wound/Tissue/Ulcer
+wound/ulcus
+Wounds
+WS/Pus
+(catheter) urine
+Abcesses
+Abdomen
+abdomen isolate
+Abdominal
+abdominal drain fluid
+abdominal drain isolate
+abdominal drainage
+abdominal fluid
+Abdominal fluid
+abdominal puncture
+Abdominial fluid
+abscess
+Abscess
+Abscess drain
+Abscess, abdominal
+anal swab
+Anal swab
+arterial blood
+Ascites fluid
+ascitic fluid
+Asitic fluid
+aspirate
+Aspirate
+Axilla and groin swab
+Axillary swab
+bal
+BAL
+bile
+Bile
+Bile fluid
+bile isolate
+Biofilm culture
+Biopsy
+blood
+Blood
+BLOOD
+Blood (central line)
+blood (port)
+Blood (port)
+Blood (whole)
+Blood bag
+blood culture
+Blood culture
+blood isolate
+blood or csf
+blood sample
+Blood specimen
+Blood Venous
+Blood_Blood
+Blood_whole
+bloodstream
+Bloodstream from a teaching hospital
+Bloodstream infection
+body fluid
+BODY FLUID (NEPHRETIC DRAIN)
+Body Fluid Cyst
+Body fluid sample
+Body Fluid, Abdomen
+bone
+Bone
+Bone marrow
+brain
+Brain
+brain abscess
+brazil
+Bronch wash
+Bronch Wash
+Broncheal secretion
+Bronchial
+Bronchial alveolar lavage
+bronchial aspirate
+bronchial lavage
+Bronchial secretion
+Bronchial secretions
+Bronchial Wash
+Bronchial Washing
+Bronchial washings
+Broncho-alveolar lavage
+Broncho-alveolar lavage fluid
+bronchoalveolar lavage
+Bronchoalveolar lavage
+Bronchoalveolar lavage fluid
+Bronquial secretion
+Caecal
+catheter
+Catheter
+Catheter tip
+Catheter urine
+Catheter, central
+Cecum
+Central venous catheter tip culture
+cerebrospinal fluid
+Cerebrospinal fluid
+Cervix
+Clean catch urine
+clinical
+Clinical
+clinical isolate from patient
+Clinical isolate from patient
+clinical isolates
+clinical material
+clinical or screening sample
+clinical sample
+Clinical sample
+clinical samples
+Clinical samples
+clinical source
+cloacal swab
+cornea
+csf
+CSF
+De-identified patient sample
+Deep Tissue
+Deep wound
+Drainage
+Drainage fluid
+Drainage liquid
+Drainage, ear
+Drainage, Ear
+Endotracheal
+endotracheal aspirate
+endotracheal tube
+Endotracheal tube
+Esophageal tube site
+ETT Aspirate
+Exudate
+Faecal
+faecal screen
+faeces
+Faeces
+Faeces or rectal swab
+Fecal samples
+Fecal screening
+feces
+Feces
+Fluid
+Fluid ascitic
+Fluid body
+fluid peritoneal
+Fluid synovial
+Fluid_Peritoneal
+Fluid, Synovial (Joint)
+Foetus
+foot
+GASTROINTESTINAL
+Gastrostomy
+genital tract
+Genital tract
+groin
+Groin
+Groin swab
+Gut
+Hepatic abscess drainage
+Hip
+HVS
+indwelling urinary catheter
+Indwelling urinary catheter
+Infected hip
+IV catheter
+Joint fluid
+joint puncture fluid
+JP drain
+laboratory culture of saliva-derived bacterial community
+Laboratory culture of saliva-derived bacterial community
+left toe swab
+Leg
+liquor
+Liver
+liver abscess
+Liver abscess
+Liver lesion drainage
+liver pus
+lower respiratory tract
+Lower respiratory tract
+lung
+Lung
+mastitis milk
+Mediastinal
+mid-stream urine
+Mid-stream urine
+midstream urine
+Mouth
+Nasal aspirate specimen
+Nasal swab
+nasopharyngeal swab
+Nasopharyngeal swab
+Neck
+Neck abscess drainage
+Nephrostomy tube
+Non-wound abdominal
+ocular secretion
+Oral cavity
+Orbital abscess drainage
+Oropharyngeal swab
+Otorrhea
+Pacemaker
+Pancreas
+Pancreatic fluid
+PEG (percutaneous endoscopic gastrostomy)
+Pelvic drainage
+Penis
+Peri-rectal
+Peri-rectal screen
+Perianal
+perianal swab
+Perianal swab
+Perigastric abscess biopsy
+perirectal
+Perirectal
+peritoneal
+Peritoneal cavity
+peritoneal fluid
+Peritoneal fluid
+Peritoneal Fluid
+PERITONEAL FLUID
+peritoneal fluid ascites isolate
+Peritoneum
+Periurethral
+Pharyngeal swab
+pleural effusion
+Pleural fluid
+PLEURAL FLUID
+Pleural fluid specimen
+pneumonia
+Pressure ulcers
+punctate
+pus
+Pus
+rectal
+Rectal
+RECTAL
+Rectal carriage
+Rectal sample
+rectal screen
+Rectal screen
+Rectal Screen
+rectal swab
+Rectal swab
+Rectal Swab
+rectal swab isolate
+Rectal/Perirectal
+Rectum
+Rectum swab
+Resp
+respiratory
+Respiratory
+Respiratory 1
+Respiratory 2
+respiratory isolate
+Respiratory isolate
+Respiratory tract
+Respiratory, Lower, Tracheal Aspirate
+Respiratory, Tracheal suction
+secretion
+Secretion
+skin
+Skin
+Skn
+Specimen from wound
+Spinal fluid
+Spine
+sputum
+Sputum
+sputum isolate
+Sputum specimen
+ST1_Stool_Organism_1
+ST1_Stool_Organism_2
+ST1_Stool_Organism_3
+ST2_Stool_Organism_1
+ST3_Stool_Organism_1
+ST4_Stool_Organism_2
+ST4_Stool_Organism_4
+ST4_Stool_Organism_6
+Stallion sperm
+Sternal wound
+Sternal Wound
+Stoma Swab
+stool
+Stool
+stool isolate
+stool sample
+stool/fecal isolate
+Stool/rectal swab
+Stool/Rectal Swab
+Surgical site infection
+Surgical wound
+swab (cavity)
+swab (wound)
+Swab ear
+Swab Wound Femur
+Throat
+throat swab
+Throat swab
+tissue
+Tissue
+TISSUE
+Tissue - Abdomen
+Tissue donor cornea
+Tissue samples
+Tissue_Liver
+tissue; sacral ulcer
+tip
+Trach
+Trachaeal secretion
+Trachael aspirate
+Tracheal
+tracheal aspirate
+Tracheal aspirate
+tracheal aspirate/wash
+tracheal aspiration
+Tracheal fluid
+Tracheal sample
+Tracheal secretion
+Tracheobronchial Aspirate
+Tracheostomy Aspirate
+UC
+ulcer swab
+Umbilical cord
+Umbilical swab
+Upper airways
+Upper respiratory tract_1
+Upper respiratory tract_2
+urinal catheter
+URINARY
+Urinary catheter
+Urinary catheter specimen
+Urinary tract
+urine
+Urine
+Urine - Catheter
+Urine - In/Out Catheter
+URINE , NOT SPECIFIED
+Urine 1
+Urine 2
+Urine culture
+urine from catheter
+Urine from foley catheter
+urine isolate
+Urine isolate
+Urine sample
+Urine specimen obtained by clean catch procedure
+URINE, RANDOM
+Urine/Genitourinary
+Urines
+Vaginal
+Vaginal swab
+vascular tissue
+venous blood
+Venous catheter
+Volar arm
+Wash
+Whole mouth swab
+WND
+wound
+Wound
+Wound 2
+Wound abscess
+Wound drainage
+Wound Drainage
+wound isolate
+Wound secretion
+wound swab
+Wound swab
+Wound Swab
+Wound; foot
+Wound/Abscess
+
+"Laboratory/In-vitro"
+ATCC
+bacterial culture
+Bacterial culture
+Bacterial culture supplemented with chloramphenicol
+Bacterial culture supplemented with kanamycin
+Bacterial culture supplemented with no antibiotics
+Bacterial culture supplemented with paromomycin
+Bacterial culture supplemented with rifampicin
+Bacterial culture supplemented with tetracycline
+Bacterial culture supplemented with valnemulin
+bacterial isolate
+experiment
+experimental
+in vitro mutant of the strain KE5351
+in vitro mutant of the strain MUH-1
+Induced strains of BAA-1705 under 1/2MIC Subinhibitory concentration
+Induced strains of BAA-1705 under 1/4MIC Subinhibitory concentration
+Induced strains of K1 under 1/2MIC Subinhibitory concentration
+Induced strains of K1 under 1/4MIC Subinhibitory concentration
+Induced strains of K1 under 1/8MIC Subinhibitory concentration
+induction culture
+isogenic mutant obtained in laboratory from strain WEB2
+Isolated as a contaminant in the Zeilstra-Ryalls lab, Bowling Green State University.
+knockout experiment
+laboratory
+Laboratory
+laboratory culture after 20 days induced resistance against Colistin
+laboratory culture after 20 days induced resistance against Octapeptin C4
+laboratory culture after 20 days induced resistance against Polymyxin B
+Laboratory Derived
+laboratory strain
+Laboratory strain
+lab stock
+Lab-derived
+Medium
+mutant of parent strain ATCC 43816 obtained from in vitro tigecycline induction experiment
+mutation library
+parent strain ATCC 700603 co-incubated with membrane vesicles (OMVs) isolated from carbapenem-resistant Klebsiella pneumoniae
+parent strain RU2 evolved under selective conditions; BHI evolved gen 950 Population GS
+parent strain RU2 evolved under selective conditions; LB evolved gen 500 Population GS
+passage
+passaging
+Passaging
+produced in vitro
+rough type phage-resistant strain derived from Klebsiella pneumoniae K7
+smooth type phage-resistant strain derived from K. pneumoniae K7
+spontaneous mutant of KP1099 selected on meropenem/vaborbactam, both at 8 mg/L
+Spontaneous rifampin-resistant isolate from ATCC 43816
+strain K3574 exposed to 15 days of a constant concentration of mucin, daily added to the media
+strain K3574 exposed to 15 days of a constant concentration of phage and mucin, daily added to the media
+strain K3574 exposed to 15 days of lytic phage infection
+The genomes here correspond to 24 metagenome-assembled genomes of the 30 bacteria identified that grow together with Monocercomonoides exilis in TYSGM-9 medium.
+ATCC
+ATCC collection
+Experiment
+Keep in the laboratory
+laboratory
+Laboratory
+Laboratory induction
+LB Medium
+Thio
+The Klebsiella pneumoniae 99 strain were grown in 20 mL of MH broth at 37 degree for 4h
+Klebsiella pneumoniae microbiological culture
+Cell culture
+conjugation assay
+culture
+Culture Collection
+cured laboratory strain
+high concentration of fluoride
+lab
+constructed lysogen
